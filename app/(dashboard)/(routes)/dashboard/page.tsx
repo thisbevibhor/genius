@@ -9,7 +9,7 @@ const tools = [
 	{
 		label: "Conversation",
 		icon: MessageSquare,
-		color: "bg-violet-500/10",
+		color: "text-violet-500",
 		bgColor: "bg-violet-500/10",
 		href: "/conversation",
 	},
